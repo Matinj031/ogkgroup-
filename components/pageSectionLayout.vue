@@ -96,6 +96,7 @@
           cols="6"
           class="border border-neutral-50 border-t-0 border-r-0 border-b-0 pl-10 pt-10"
         >
+        
           {{ swiperInstance && swiperInstance.realIndex }}
           <h1 class="titleText text-white animate__animated animate__fadeInUp">
             {{
