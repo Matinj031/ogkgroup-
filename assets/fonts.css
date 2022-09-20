@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Metronic';
+    src: url("../static/MetronicProRegular.woff2") format("woff2");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Metronic';
+    src: url("../static/MetronicProSemiBold.woff2") format("woff2"); 
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Metronic';
+    src: url("../static/MetronicProBold.woff2") format("woff2");
+    font-weight: 700;
+}
